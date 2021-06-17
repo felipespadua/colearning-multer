@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "nome": "Felipe",
+      "idade": 26,
+      "sexo": "M",
+      "foto": "",
+      "endereco": "Rua São Carlos do Pinhal"
+    }
+  ]
+}
