@@ -29,3 +29,10 @@
 ### 2. Criar um formulário de dados para a criação de um novo usuário
 
 - rota POST user
+
+### 3. Inserir um campo de upload de imagem para a foto do usuário
+
+### 4. Na tabela de usuários inserir botão "Exibir" para cada linha. Esse botão redirecionará para uma nova página com todas informações do usuário, incluindo a renderização de sua foto.
+- rota GET user/:id => retornar dados do usuário de um determinado ID.
+
+### 5.  Na tabela de usuários inserir botão "Exibir" para cada linha. Esse botão redirecionará para uma nova página com todas informações do usuário, incluindo a renderização de sua foto.
