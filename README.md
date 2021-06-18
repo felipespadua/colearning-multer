@@ -28,11 +28,14 @@
 
 ### 2. Criar um formulário de dados para a criação de um novo usuário
 
-- rota POST user
+- rota POST users
 
 ### 3. Inserir um campo de upload de imagem para a foto do usuário
 
 ### 4. Na tabela de usuários inserir botão "Exibir" para cada linha. Esse botão redirecionará para uma nova página com todas informações do usuário, incluindo a renderização de sua foto.
+
 - rota GET user/:id => retornar dados do usuário de um determinado ID.
 
-### 5.  Na tabela de usuários inserir botão "Exibir" para cada linha. Esse botão redirecionará para uma nova página com todas informações do usuário, incluindo a renderização de sua foto.
+### 5. Na tabela de usuários inserir botão "Atualizar" para cada linha. Esse botão redirecionará para uma nova página carregando um formulário com todos os dados desse usuário já preenchidos. Esse formulário possuirá um botão "Atualizar" que irá atualizar os dados desse usuário.
+
+- rota PUT user/:id => atualizar os dados do usuário.
